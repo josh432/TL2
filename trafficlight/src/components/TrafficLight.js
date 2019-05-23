@@ -4,7 +4,7 @@ class TrafficLight extends React.Component {
   constructor() {
     super();
     this.state = {
-      theValue: null
+      theValue: ""
     };
   }
 
